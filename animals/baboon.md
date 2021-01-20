@@ -17,8 +17,6 @@ $ cp [path] [path]| copy
 
 ## Baboonish emojis
 
-[Reference](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-
 :monkey:
 
 
