@@ -17,10 +17,12 @@ $ cp [path] [path]| copy
 
 ## Baboonish emojis
 
-:monkey-face:
+[Reference](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 :monkey:
-:hear-no-evil:
-:see-no-evil:
+:monkey-face: 
+:hear-no-evil: 
+:see-no-evil: 
 :speak-no-evil:
 
 
