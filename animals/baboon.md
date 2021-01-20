@@ -19,5 +19,13 @@ $ cp [path] [path]| copy
 
 :monkey:
 
+:monkey_face:
+
+:speak_no_evil:
+
+:see_no_evil:
+
+:hear_no_evil:
+
 
 
