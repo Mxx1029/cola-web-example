@@ -20,10 +20,6 @@ $ cp [path] [path]| copy
 [Reference](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 :monkey:
-:monkey-face: 
-:hear-no-evil: 
-:see-no-evil: 
-:speak-no-evil:
 
 
 
