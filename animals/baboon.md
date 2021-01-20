@@ -11,11 +11,11 @@ $ mkdir | create directory
 $ pwd | print working directory
 $ cp [path] [path]| copy
 
-## That's how a baboon can look like
+## That's what a baboon can look like
 
 ![young baboon](https://tse4.mm.bing.net/th?id=OIP.FMnds_9INPpwIqHJhqYvXAHaKB&pid=Api)
 
-## Baboonish emojis
+## Baboonish emoji
 
 :monkey:
 
