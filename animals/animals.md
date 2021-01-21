@@ -8,4 +8,5 @@ cd  | change directory
 
 ![Gonzo](https://static.wikia.nocookie.net/muppet/images/e/eb/Gonzo2.jpg/revision/latest?cb=20111110063441)
 
-> :smiley:
+> :smiley: :simley:
+
