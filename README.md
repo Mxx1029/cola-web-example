@@ -2,6 +2,7 @@
 
 This is the open source project for the COLA website
 
-# AUTHORS
-KAI
-JOEL
+## Authors
+Joel
+Kai
+etc
